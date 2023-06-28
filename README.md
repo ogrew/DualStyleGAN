@@ -1,5 +1,7 @@
 clone : https://github.com/williamyang1991/DualStyleGAN
 
+[Dockerfile](https://github.com/ogrew/DualStyleGAN/blob/main/dockerfile)
+
 ```
 > cd workspace/DualStyleGAN/
 > conda init bash
